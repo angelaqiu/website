@@ -1,0 +1,27 @@
+body {
+    background-image: url("yellowflower.jpg");
+    background-size: 1500px 1000px;
+}
+#white {
+    position:absolute;
+    top: 130px; 
+    left:50%;
+    width:506px;
+    height: 65%;
+    background-color: #FFFFFF;
+    opacity: 0.6;
+    font-family: 'Lato', sans-serif;
+    font-weight:300;
+}
+#name {
+    position: absolute;
+    font-family: 'Josefin Slab', serif;
+    font-size: 60px;
+    top:84px;
+    left:50%;
+    opacity: 0.6;
+    color: #FFF;
+}
+#text {
+    padding-left: 10px;
+    padding-top: 5px;
